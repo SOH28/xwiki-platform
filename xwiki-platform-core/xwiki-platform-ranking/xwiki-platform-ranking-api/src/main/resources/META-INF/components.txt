@@ -1,0 +1,6 @@
+org.xwiki.ranking.internal.AverageRankSolrCoreInitializer
+org.xwiki.ranking.internal.DefaultRankingConfiguration
+org.xwiki.ranking.internal.DefaultRankingManager
+org.xwiki.ranking.internal.DefaultRankingManagerFactory
+org.xwiki.ranking.internal.RankingSolrCoreInitializer
+org.xwiki.ranking.script.RankingScriptService
